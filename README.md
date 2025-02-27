@@ -1,1 +1,1 @@
-# JS_Tic_Tac-_Toe_Game
+# JS_Tic_Tac_Toe_Game
